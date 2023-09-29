@@ -116,10 +116,7 @@
     "name": "backgrounds",
     "path": "folders/Sprites/backgrounds.yy",
   },
-  "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
-  },
+  "spriteId": null,
   "spriteNoExport": false,
   "textureGroupId": {
     "name": "Default",
