@@ -1,0 +1,6 @@
+weapon = "NW";
+action = "idle";
+
+
+
+
