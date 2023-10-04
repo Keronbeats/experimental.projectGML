@@ -9,11 +9,7 @@ if (hor != 0) {
 	action = "idle";
 }
 //realiza el salto, solo una vez en bloque de colision
-if (keyboard_check_pressed(vk_space)&& collision_rectangle(x-8,y,x+8,y+1,Obj_block_colision,false,false)){
-	vspeed= -8;
-	
+if (keyboard_check_pressed(vk_space)){
+	scrJump(width);
 }
 //salto en plataforma de colision
-if (keyboard_check_pressed(vk_space)&& collision_rectangle(x-8,y,x+8,y+1,Obj_wideblock,false,false)){
-	vspeed= -8;
-}

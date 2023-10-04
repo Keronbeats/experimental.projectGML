@@ -116,7 +116,10 @@
     "name": "backgrounds",
     "path": "folders/Sprites/backgrounds.yy",
   },
-  "spriteId": null,
+  "spriteId": {
+    "name": "Tileset",
+    "path": "sprites/Tileset/Tileset.yy",
+  },
   "spriteNoExport": false,
   "textureGroupId": {
     "name": "Default",
