@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object6",
+  "name": "Obj_rampblock",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

@@ -2,7 +2,7 @@
 var hor = keyboard_check(vk_right) - keyboard_check(vk_left);
 //mueve la orientacion de el sprite dependiendo de la direccion a la que se avanza y cambia entre sprites.
 if (hor != 0) {
-	scrMovement(hor);
+	scrMovement(sign(hor),width);
 	
 	action = "walk";
 } else if (vspeed == 0) {

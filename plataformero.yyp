@@ -57,7 +57,7 @@
     {"id":{"name":"sprWwalk","path":"sprites/sprWwalk/sprWwalk.yy",},},
     {"id":{"name":"sword_equip","path":"sprites/sword_equip/sword_equip.yy",},},
     {"id":{"name":"sprNWwalk","path":"sprites/sprNWwalk/sprNWwalk.yy",},},
-    {"id":{"name":"Object6","path":"objects/Object6/Object6.yy",},},
+    {"id":{"name":"Obj_rampblock","path":"objects/Obj_rampblock/Obj_rampblock.yy",},},
     {"id":{"name":"sprsmallFlyblock","path":"sprites/sprsmallFlyblock/sprsmallFlyblock.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"ObjFlyblock4","path":"objects/ObjFlyblock4/ObjFlyblock4.yy",},},

@@ -1,3 +1,7 @@
+
+//Cambios de sprite
+scrUpdateSprite();
+
 //colisiones con bloques.
 scrChecktGravity(width){
 }
@@ -8,8 +12,5 @@ if (vspeed > 0){
 	//callendo
     scrChecktCellingCollision(width, heigth);
 }
-//Cambios de sprite
-scrUpdateSprite();
-
 //colision con plataforma en movimiento
 scrChecktPlataformCollision(width);

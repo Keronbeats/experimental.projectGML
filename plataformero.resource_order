@@ -34,7 +34,7 @@
     {"name":"scrChecktCellingCollision","order":4,"path":"scripts/scrChecktCellingCollision/scrChecktCellingCollision.yy",},
     {"name":"sprWwalk","order":1,"path":"sprites/sprWwalk/sprWwalk.yy",},
     {"name":"sprNWwalk","order":3,"path":"sprites/sprNWwalk/sprNWwalk.yy",},
-    {"name":"Object6","order":5,"path":"objects/Object6/Object6.yy",},
+    {"name":"Obj_rampblock","order":5,"path":"objects/Obj_rampblock/Obj_rampblock.yy",},
     {"name":"sprsmallFlyblock","order":5,"path":"sprites/sprsmallFlyblock/sprsmallFlyblock.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"ObjFlyblock4","order":11,"path":"objects/ObjFlyblock4/ObjFlyblock4.yy",},
